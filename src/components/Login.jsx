@@ -15,7 +15,7 @@ export default function Login() {
             <div className='bg-gray-800 flex flex-col justify-center'>
                 <form className='max-w-[400px] w-full mx-auto bg-gray-900 p-8 rounded-lg'>
                     <h2 className='text-4xl text-white font-bold text-center'>
-                        SING IN
+                        SING IN Luis Fernando
                     </h2>
                     <div className='flex flex-col text-gray-400 py-2'>
                         <label>User Name</label>
